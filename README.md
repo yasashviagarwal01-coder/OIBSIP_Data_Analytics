@@ -4,7 +4,7 @@ This repository contains the projects completed during my **Data Analytics Inter
 
 ## 👨‍💻 Intern Details
 
-- **Name:** Yasashvi Agarwal
+- **Name:** Yashasvi Agarwal
 - **Domain:** Data Analytics
 - **Organization:** Oasis Infobyte
 
