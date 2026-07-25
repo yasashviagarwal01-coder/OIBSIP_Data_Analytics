@@ -1,26 +1,32 @@
 # Oasis Infobyte Data Analytics Internship
 
-This repository contains the projects completed during my **Data Analytics Internship** at **Oasis Infobyte**.
+## Submitted By
+**Yasashvi Agarwal**
 
-## 👨‍💻 Intern Details
+## Domain
+**Data Analytics**
 
-- **Name:** Yashasvi Agarwal
-- **Domain:** Data Analytics
-- **Organization:** Oasis Infobyte
+## About
+This repository contains the projects completed during the Oasis Infobyte Data Analytics Internship. The projects demonstrate skills in Exploratory Data Analysis (EDA), Customer Segmentation, and Sales Prediction using Machine Learning.
 
-## 📂 Projects
+## Tasks Completed
 
-### Task 1: Exploratory Data Analysis (EDA) on Retail Sales Data
+### Task 1: Exploratory Data Analysis (EDA) on Retail Sales
 - Performed data cleaning and preprocessing.
-- Conducted exploratory data analysis using Python.
-- Visualized sales trends and generated business insights.
+- Conducted exploratory data analysis using visualizations.
+- Identified trends and patterns in retail sales.
 
 ### Task 2: Customer Segmentation using K-Means Clustering
-- Segmented customers based on Annual Income and Spending Score.
-- Determined the optimal number of clusters using the Elbow Method.
-- Visualized customer groups for business decision-making.
+- Applied the K-Means clustering algorithm.
+- Used the Elbow Method to determine the optimal number of clusters.
+- Visualized customer segments based on Annual Income and Spending Score.
 
-## 🛠️ Tools & Technologies
+### Task 3: Sales Prediction using Linear Regression
+- Built a Linear Regression model to predict sales.
+- Evaluated model performance using MAE, MSE, RMSE, and R² Score.
+- Analyzed the relationship between advertising expenditure and sales.
+
+## Tools & Libraries Used
 - Python
 - Google Colab
 - Pandas
@@ -28,15 +34,5 @@ This repository contains the projects completed during my **Data Analytics Inter
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Git & GitHub
 
-## 📌 Repository Structure
-
-```text
-OIBSIP_Data_Analytics
-│
-├── Task_1_EDA_Retail_Sales
-└── Task_2_Customer_Segmentation
-```
-
-Thank you for visiting my repository!
+## Thank You!
