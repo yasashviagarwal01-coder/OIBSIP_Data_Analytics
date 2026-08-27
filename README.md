@@ -1,4 +1,4 @@
-# Oasis Infobyte Data Analytics Internship
+# Data Analytics 
 
 ## Submitted By
 **Yasashvi Agarwal**
